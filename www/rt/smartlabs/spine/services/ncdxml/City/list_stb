@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rows code="0">
+<row number="0">
+<City_externalId>100524901</City_externalId>
+<City_coordinates>37.620548,55.752658</City_coordinates>
+<City_yandexName/>
+<City_yandexWeatherCityId>1</City_yandexWeatherCityId>
+<City_yandexWeatherCityGeoId>213</City_yandexWeatherCityGeoId>
+<City_shortName/>
+<City_ID>2564640</City_ID>
+<City_DISCRIMINATOR>CITY</City_DISCRIMINATOR>
+<City_name>Москва</City_name>
+<City_description>moscow</City_description>
+<City_sortOrder>1</City_sortOrder>
+<City_logo/>
+<City_ownerUser/>
+<ownerUser_login/>
+<ownerUser_ID/>
+<ownerUser_DISCRIMINATOR/>
+<City_internalId/>
+<City_latinExternalId/>
+<City_langId>8349690</City_langId>
+<langId_name>Русский</langId_name>
+<langId_ID>8349690</langId_ID>
+<langId_DISCRIMINATOR>LANGUAGE</langId_DISCRIMINATOR>
+</row>
+</rows>

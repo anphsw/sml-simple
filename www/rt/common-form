@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rows code="0">
+<row number="0">
+<id>10</id>
+<eDate></eDate>
+<ignoreMessageBan>0</ignoreMessageBan>
+<name>Если каналы не запускаются с первого раза, повыбирайте другие, это виновата приставка.</name>
+</row>
+<row number="1">
+<id>11</id>
+<eDate></eDate>
+<ignoreMessageBan>0</ignoreMessageBan>
+<name>Данная iptv-приставка не поддерживает HD-каналы, хотя у нее в названии написано "HD".</name>
+</row>
+</rows>

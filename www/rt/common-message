@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rows code="0">
+<notify_msg>
+<name>test</name>
+<text>Ах, как хорошо быть ТВ-приставкой!</text>
+<short_text>Ах, как хорошо быть ТВ-приставкой!</short_text>
+<confirmationText>DA!</confirmationText>
+<id>121704845</id>
+</notify_msg>
+</rows>

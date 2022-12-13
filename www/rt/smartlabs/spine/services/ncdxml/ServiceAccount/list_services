@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><services code="0">
+<service><id>2017</id>
+<type>CHANNELPACKAGE</type>
+<name>Спутниковое ТВ @880.ru</name>
+<description>Индивидуальный приём программ со спутника.</description>
+<mandatory>false</mandatory>
+<price>0</price>
+<externalId>UNIVERSAL</externalId>
+<packageId/>
+<endDate>1741813200</endDate>
+<allowedPurchases>1000</allowedPurchases>
+<unlimited>true</unlimited>
+<startDate/>
+<oneTime>false</oneTime>
+<serviceState>1</serviceState>
+<isPromoService>0</isPromoService>
+<subscribedViaParentId/>
+<notifyThreshold/>
+<notifyTimeout/>
+<notifyStartText/>
+<notifyText/>
+<appleId/>
+<smarttvId/>
+<notConfirmed>0</notConfirmed>
+<portalId/>
+<bonusId/>
+<isAutoProlongation/>
+<autopaymentsAvail>0</autopaymentsAvail>
+<autopaymentsEnabled>0</autopaymentsEnabled>
+</service>
+</services>

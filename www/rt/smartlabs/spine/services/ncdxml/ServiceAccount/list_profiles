@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rows code="0">
+<row number="0">
+<id>5609261</id>
+<name>master</name>
+<isMaster>1</isMaster>
+<isCurrent>1</isCurrent>
+<favorite/>
+<forbidden/>
+<sort/>
+<lastChannelId/>
+<specChannelPIDs/>
+<vodPositions/>
+<reminders>&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&gt;&lt;remindlist/&gt;</reminders>
+<maxAllow>52653</maxAllow>
+<lastAccessLevelId>0</lastAccessLevelId>
+<isAccessLevelPersistent>0</isAccessLevelPersistent>
+<customProperties></customProperties>
+<specialData/>
+<aspectRatio>1</aspectRatio>
+<outputAspectRatio>1</outputAspectRatio>
+<style>black</style>
+<purchaseVodAllow>0</purchaseVodAllow>
+<purchaseKaraokeAllow>0</purchaseKaraokeAllow>
+<subscribeAllow>0</subscribeAllow>
+<pinEnable>0</pinEnable>
+<pin>0000</pin>
+<autohide>15000</autohide>
+<autoopen>0</autoopen>
+<lang/>
+<viewLimFrom/>
+<viewLimTo/>
+<viewDurationHour/>
+<forbiddenContent/>
+<nickName/>
+<privacy/>
+<specChannelSubsPids/>
+<messageBan>0</messageBan>
+<isPublic>1</isPublic>
+<isPurchaseLimited>0</isPurchaseLimited>
+<purchaseLimitedPeriod>30</purchaseLimitedPeriod>
+<purchaseLimitedChangeDate/>
+<purchaseLimitedBalance/>
+<purchaseLimitedQuota/>
+<plIsLastModifBySa>0</plIsLastModifBySa>
+</row>
+</rows>
